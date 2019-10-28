@@ -1,5 +1,7 @@
 # HIB - Health Informatics B
 
+[TOC]
+
 ## Meteor
 
 | **Meteor metadata item types**  | **Example**                                                | **Detailed explanation: how example fulfils metadata item type definition** |
