@@ -27,7 +27,7 @@
 
 *From reference table to all table (1:M) E.g. doctor details (1) to patient appointments (M)
 
-##Database table components:
+## Database table components:
 
 - Table (file or entity)
 
@@ -43,7 +43,7 @@
 
 - Value- the thing in a cell (e.g. M in sex field)
 
-##Database design components (Things we need to decide)
+## Database design components (Things we need to decide)
 
 - Data base structure: 
 
@@ -54,7 +54,7 @@
 
 - Business rules
 
-Database design summary
+## Database design summary
 
 - Establish entities (tables)
 - Define data items within entities
@@ -64,7 +64,7 @@ Database design summary
 
 In consultation with data dictionaries (AIHW)
 
-##Database layers:
+## Database layers:
 
 - Structure
 
@@ -123,7 +123,7 @@ A community organisation has approached you as an HIM for information regarding 
 
 - - Attributes: identifier (i.e ID)
 
-##**Microsoft access**
+## Microsoft access
 
 - Is a database (tables to hold information), a query language, a report generator, a software development language
 - All elements (table, queries etc) have two versions- a structure or design and the data stored in and retrieved by that design
@@ -192,7 +192,7 @@ Query/ report commonalities
   - - Update- updates existing table with entries from the query E.g update postcode for people with a specific address
     - Delete- deletes records that meet the criteria of the query
 
-##Compare/ difference between reports and queries
+## Compare/ difference between reports and queries
 
 Query: 
 
