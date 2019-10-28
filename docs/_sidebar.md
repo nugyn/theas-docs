@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [HIB](HIB - Health Informatics B.md)
+* [HIB](HIB.md)
