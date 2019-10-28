@@ -1,6 +1,6 @@
 # HIB - Health Informatics B
 
-[TOC]
+ [TOC]
 
 ## Meteor
 
